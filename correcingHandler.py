@@ -139,10 +139,6 @@ class CorrectingHandler:
             print '-- Done'
             print ''
 
-            # print "----------------------------"
-            # print "Redovisning.........."
-            # print "----------------------------"
-            # print  correcting_.howManySentences()
 
             print '--------------------------------------------------------'
             print '-- Checking DRY'
@@ -152,7 +148,7 @@ class CorrectingHandler:
             print '-- Done'
             print ''
 
-            
+
             print '--------------------------------------------------------'
             print '-- Checking sentences'
             print '--------------------------------------------------------'

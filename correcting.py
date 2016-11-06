@@ -64,7 +64,6 @@ class Correcting:
 
         return True
 
-        #print soup
 
     def addToListIfUnieq(self, str):
         if str not in self.allLinks:
